@@ -7,5 +7,8 @@ Manual user account creation process within the Okta environment
 
 <p>
 <img width="1684" height="1125" alt="Screenshot 2026-06-27 203721" src="https://github.com/user-attachments/assets/070e8a67-ac8b-454a-a580-361b63893a4e" />
+<img width="1615" height="1098" alt="Screenshot 2026-06-27 210104" src="https://github.com/user-attachments/assets/ff1b51b4-ddee-499a-8439-d496bad88cae" />
 
-<img width="813" height="248" alt="Screenshot 2026-06-27 204711" src="https://github.com/user-attachments/assets/a724c59b-9449-45ed-9fac-3e3be2172b71" />
+
+<img width="1665" height="558" alt="Screenshot 2026-06-27 210743" src="https://github.com/user-attachments/assets/94f5b12d-81aa-4d84-9dd4-0018675576e0" />
+
